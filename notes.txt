@@ -1,0 +1,45 @@
+Sure, here's the breakdown of which fingers to use for each feature:
+
+1. **FIST Gesture**:
+   - **Description**: Formed by closing all fingers into a fist, except the thumb which may be tucked or extended.
+   - **Use**: Click and hold.
+   - **Fingers Involved**:
+     - All Fingers: Closed into a fist.
+     - Thumb: Can be tucked inside the fist or extended to the side.
+
+2. **MID Gesture**:
+   - **Description**: Typically formed by extending the middle finger while keeping the other fingers bent or curled.
+   - **Use**: Click.
+   - **Fingers Involved**:
+     - Middle Finger: Extended and pointing outward.
+     - Other Fingers: Kept bent or curled towards the palm.
+
+3. **INDEX Gesture**:
+   - **Description**: Formed by extending the index finger while keeping the other fingers bent or curled.
+   - **Use**: Right-click.
+   - **Fingers Involved**:
+     - Index Finger: Extended and pointing outward.
+     - Other Fingers: Kept bent or curled towards the palm.
+
+4. **TWO_FINGER_CLOSED Gesture**:
+   - **Description**: Formed by closing the index and middle fingers together while keeping the other fingers extended or bent.
+   - **Use**: Double-click.
+   - **Fingers Involved**:
+     - Index Finger and Middle Finger: Closed together.
+     - Other Fingers: Extended or bent as per comfort.
+
+5. **PINCH_MINOR Gesture**:
+   - **Description**: Formed by bringing the thumb and index finger close together while keeping the other fingers extended or bent.
+   - **Use**: Scroll vertically or horizontally on the screen.
+   - **Fingers Involved**:
+     - Thumb and Index Finger: Brought close together.
+     - Other Fingers: Extended or bent as per comfort.
+
+6. **PINCH_MAJOR Gesture**:
+   - **Description**: Similar to PINCH_MINOR but used for different functionalities.
+   - **Use**: Adjust system brightness or volume.
+   - **Fingers Involved**:
+     - Thumb and Index Finger: Brought close together.
+     - Other Fingers: Extended or bent as per comfort.
+
+Each gesture involves specific finger positions or movements, which are detected by the script to perform the corresponding action. If you have any more questions or need further clarification, feel free to ask!
