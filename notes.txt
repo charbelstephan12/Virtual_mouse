@@ -1,5 +1,3 @@
-Sure, here's the breakdown of which fingers to use for each feature:
-
 1. **FIST Gesture**:
    - **Description**: Formed by closing all fingers into a fist, except the thumb which may be tucked or extended.
    - **Use**: Click and hold.
@@ -41,5 +39,3 @@ Sure, here's the breakdown of which fingers to use for each feature:
    - **Fingers Involved**:
      - Thumb and Index Finger: Brought close together.
      - Other Fingers: Extended or bent as per comfort.
-
-Each gesture involves specific finger positions or movements, which are detected by the script to perform the corresponding action. If you have any more questions or need further clarification, feel free to ask!
