@@ -472,7 +472,8 @@ class GestureController:
                 else:
                     Controller.prev_hand = None
                 cv2.imshow("Gesture Controller", image)
-                if cv2.waitKey(5) & 0xFF == 13:
+                key = cv2.waitKey(5)
+                if key == 13 or key == ord("q"):
                     break
         GestureController.cap.release()
         cv2.destroyAllWindows()
