@@ -1,0 +1,9 @@
+Hand Gesture Recognition: dragging, and scrolling.
+
+Scrolling: Implement scrolling functionality by detecting specific hand gestures or movements associated with scrolling actions. For example, a swipe gesture could correspond to scrolling up or down.
+
+Fix the pinches Minor / Major 
+
+User Interface: Design a user interface for calibrating the system, adjusting sensitivity settings, and providing feedback to the user about the current state of the virtual mouse.
+
+Performance Optimization: Explore ways to optimize the performance of the system, such as reducing latency between hand movements and cursor updates, and minimizing computational resources required for real-time processing.
